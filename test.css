@@ -1,0 +1,23 @@
+.flexcontainer{
+
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+}
+
+.container{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+
+
+}
+
+.pic:hover{
+    background-color: #034574;
+    transition: 0.5s;
+
+}
